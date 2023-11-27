@@ -1,9 +1,6 @@
 # 💫 About Me:
 I am a self-driven problem solver, that loves to learn new skills and apply them in creative ways. I love to code; building everything from small scripts to automate processes to large-scale web application projects. I have experience in building applications with React.js, Redux JavaScript, WordPress, Ruby on Rails, and HTML/CSS.<br><br>With years of experience in real estate, I have strengthened my work ethic, ability to work on a team, and my problem-solving skills. Every new deal in real estate comes with new challenges and situations and because of that, I had to always be ready to learn skills when the need arises. As such, I am confident that with my technical expertise coupled with my wide variety of experiences, I can hit the ground running.<br>
 
-With years of experience in real estate, I have strengthened my work ethic, ability to work on a team, and my problem-solving skills. Every new deal in real estate comes with new challenges and situations and because of that, I had to always be ready to learn skills when the need arises. As such, I am confident that with my technical expertise coupled with my wide variety of experiences, I can hit the ground running.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffrey-shin-901752228/) 
 
